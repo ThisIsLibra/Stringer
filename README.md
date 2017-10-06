@@ -5,7 +5,7 @@ A tool used to check what a string possibly is based on popular encoding algorit
 Provide the strings that need to be tested as an argument, separated by a space.
            Arguments that contain a space should be encapsulated between quotation marks "such as these".
 
-           For example: java -jar String.jar [argument1] [argument2] ["argument 3"]
+           java -jar String.jar [argument1] [argument2] ["argument 3"]
 
 Currently, the following patterns are possibly decoded:
            base64, hex2ASCII, ROT-1 through ROT-25
@@ -15,3 +15,6 @@ Based on the length of the string, possible matching hashes are detected. Curren
 
 # License
 The software is licensed under GNU General Public License v3.0. Illegal useage is forbidden.
+
+# Contact
+If you want to contact me about this application, please e-mail me at [info][at][maxkersten][dot][nl].
